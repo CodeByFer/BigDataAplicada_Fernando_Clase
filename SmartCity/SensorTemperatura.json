@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "type": "sensorTemperatura",
+    "time": "02 MAR 2026 00:00:00",
+    "temperature": {
+        "temperature": 23,
+        "magnitude": "C"
+    },
+    "humidity": {
+        "volume": 23,
+        "magnitude": "g/m³"
+    }
+}

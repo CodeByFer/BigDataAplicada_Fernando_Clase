@@ -1,0 +1,16 @@
+{
+  "id": "SensorCO2-2",
+  "type": "SensorCO2",
+  "time": {
+    "type": "DateTime",
+    "value": "2026-03-02T00:00:00Z"
+  },
+  "CO2_volume": {
+    "type": "Float",
+    "value": 23
+  },
+  "CO2_magnitude": {
+    "type": "Text",
+    "value": "ppm"
+  }
+}

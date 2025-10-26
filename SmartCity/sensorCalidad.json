@@ -1,0 +1,28 @@
+{
+  "id": "SensorAgua",
+  "type": "SensorAgua",
+  "time": {
+    "type": "DateTime",
+    "value": "2026-03-02T00:00:00Z"
+  },
+  "ph": {
+    "type": "Float",
+    "value": 23
+  },
+  "chlorineVolume": {
+    "type": "Float",
+    "value": 23
+  },
+  "chlorineMagnitude": {
+    "type": "Text",
+    "value": "mgL"
+  },
+  "temperatureValue": {
+    "type": "Float",
+    "value": 23
+  },
+  "temperatureMagnitude": {
+    "type": "Text",
+    "value": "C"
+  }
+}
